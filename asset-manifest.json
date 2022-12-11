@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/compatibility-test/static/css/main.cb0965cc.css",
-    "main.js": "/compatibility-test/static/js/main.0959e7ed.js",
-    "static/js/787.c1112931.chunk.js": "/compatibility-test/static/js/787.c1112931.chunk.js",
-    "static/media/img.png": "/compatibility-test/static/media/img.addc626055072a650696.png",
-    "static/media/icon.png": "/compatibility-test/static/media/icon.8e5b92ad3334230679ab.png",
-    "index.html": "/compatibility-test/index.html",
-    "main.cb0965cc.css.map": "/compatibility-test/static/css/main.cb0965cc.css.map",
-    "main.0959e7ed.js.map": "/compatibility-test/static/js/main.0959e7ed.js.map",
-    "787.c1112931.chunk.js.map": "/compatibility-test/static/js/787.c1112931.chunk.js.map"
+    "main.css": "/compability-test/static/css/main.cb0965cc.css",
+    "main.js": "/compability-test/static/js/main.c966eb82.js",
+    "static/js/787.c1112931.chunk.js": "/compability-test/static/js/787.c1112931.chunk.js",
+    "static/media/img.png": "/compability-test/static/media/img.addc626055072a650696.png",
+    "static/media/icon.png": "/compability-test/static/media/icon.8e5b92ad3334230679ab.png",
+    "index.html": "/compability-test/index.html",
+    "main.cb0965cc.css.map": "/compability-test/static/css/main.cb0965cc.css.map",
+    "main.c966eb82.js.map": "/compability-test/static/js/main.c966eb82.js.map",
+    "787.c1112931.chunk.js.map": "/compability-test/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb0965cc.css",
-    "static/js/main.0959e7ed.js"
+    "static/js/main.c966eb82.js"
   ]
 }
