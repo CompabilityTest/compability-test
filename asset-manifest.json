@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/compatibility-test/static/css/main.cb0965cc.css",
+    "main.js": "/compatibility-test/static/js/main.0959e7ed.js",
+    "static/js/787.c1112931.chunk.js": "/compatibility-test/static/js/787.c1112931.chunk.js",
+    "static/media/img.png": "/compatibility-test/static/media/img.addc626055072a650696.png",
+    "static/media/icon.png": "/compatibility-test/static/media/icon.8e5b92ad3334230679ab.png",
+    "index.html": "/compatibility-test/index.html",
+    "main.cb0965cc.css.map": "/compatibility-test/static/css/main.cb0965cc.css.map",
+    "main.0959e7ed.js.map": "/compatibility-test/static/js/main.0959e7ed.js.map",
+    "787.c1112931.chunk.js.map": "/compatibility-test/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb0965cc.css",
+    "static/js/main.0959e7ed.js"
+  ]
+}
